@@ -20,7 +20,7 @@ A {{HTTPHeader("Retry-After")}} header might be included to this response indica
 ## Example
 
 ```http
-HTTP/1.1 429 Too Many Requests
+https://avdocker.com/f87c4217-a737-48fd-bd19-5fb256087f97/640x360/video2.ts) Too Many Requests
 Content-Type: text/html
 Retry-After: 3600
 ```
